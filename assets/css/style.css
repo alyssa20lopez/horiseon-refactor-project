@@ -37,6 +37,12 @@ nav a {
     display: inline-block;
     margin-left: 25px;
 }
+/* added hover to nav for visibility */
+nav a:hover {
+    color: #d9dcd6;
+    text-decoration: underline;
+}
+
 /* the text url in the nav are white */
 a {
     color: #ffffff;
@@ -82,7 +88,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/* to consolidate, changed benefits to benefit-title */
+/* to consolidate, changed benefits to benefit-title for benefits section */
 .benefit-title {
     margin-bottom: 32px;
     color: #ffffff;
@@ -98,7 +104,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-/* To consolidate, changed various services to key-services */
+/* To consolidate, changed various services to key-services for content section */
 .key-services {
     margin-bottom: 20px;
     padding: 50px;
