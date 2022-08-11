@@ -9,4 +9,4 @@ This is a site built to advertise a company called Horiseon. The website feature
 [Link to live site](https://alyssa20lopez.github.io/horiseon-refactor-project/)
 
 ## Visuals
-![Alt text](.benef/assets/images/Horiseon-Search-Optimization.png)
+![Alt text](./assets/images/Horiseon-Search-Optimization.png)
