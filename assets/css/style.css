@@ -3,11 +3,11 @@
     padding: 0;
     margin: 0;
 }
-/* The website's background is called lighthouse view */ 
+/* the website's background is called lighthouse view */ 
 body {
     background-color: #d9dcd6;
 }
-/* This is the website's header */
+/* this is the website's header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,8 +23,9 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
-/* Changed all divs to nav, to represent the nav in the HTML */
-header nav {
+/* changed all divs to nav, to represent the nav in the HTML */
+/* removed header from nav to condense */
+nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,15 +33,11 @@ header nav {
     font-size: 20px;
 }
 
-header nav ul {
-    list-style-type: none;
-}
-
-header nav ul li {
+nav a {
     display: inline-block;
     margin-left: 25px;
 }
-/* The text url in the nav are white */
+/* the text url in the nav are white */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -49,7 +46,7 @@ a {
 p {
     font-size: 16px;
 }
-/* This is the website's main image */
+/* this is the website's main image */
 .hero {
     height: 800px;
     width: 100%;
@@ -85,7 +82,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/* To consolidate, I change all benefits to benefit-title */
+/* to consolidate, changed benefits to benefit-title */
 .benefit-title {
     margin-bottom: 32px;
     color: #ffffff;
@@ -101,7 +98,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-/* To consolidate, I change all service offered to key-services */
+/* To consolidate, changed various services to key-services */
 .key-services {
     margin-bottom: 20px;
     padding: 50px;
@@ -119,7 +116,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* There were no changed made to the footer */
+/* there were no changed made to the footer */
 footer {
     padding: 30px;
     clear: both;
