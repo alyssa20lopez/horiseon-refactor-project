@@ -6,7 +6,7 @@
 
 ## Description
 This is a site built to advertise a company called Horiseon. The website features navigation tools provide the user accessibility.
-[Link to live site](file:///C:/Users/alyss/bootcamp/horiseon-refactor-project/index.html)
+[Link to live site](https://alyssa20lopez.github.io/horiseon-refactor-project/)
 
 ## Visuals
-![Alt text](./assets/images/Horiseon-Search-Optimization.png)
+![Alt text](.benef/assets/images/Horiseon-Search-Optimization.png)
